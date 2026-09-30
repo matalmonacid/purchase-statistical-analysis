@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+Online Retail.xlsx
+resultados/facturas.csv
